@@ -81,6 +81,7 @@ Serial.print("Humidity: "); Serial.print(humidityPercent); Serial.println("%");
 
 delay(5000); // iterate every 5 seconds }
 ---
+```
 To upload
 --
 <img width="1310" height="598" alt="image" src="https://github.com/user-attachments/assets/09ddd55d-be00-4ef9-bbac-6765efeed04e" />
